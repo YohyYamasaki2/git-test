@@ -8,8 +8,10 @@ h1 {
 
 p {
   color: blue;
+  background: #ddd;
 }
 
 div {
   background: #ddd;
+  color: red;
 }
